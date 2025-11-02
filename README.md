@@ -40,7 +40,6 @@ pipex/
 
 <pre>./pipex infile "cmd1" "cmd2" outfile</pre>
 
-
 ## Equivalent to the shell command:
 
 <pre>< infile cmd1 | cmd2 > outfile</pre>
